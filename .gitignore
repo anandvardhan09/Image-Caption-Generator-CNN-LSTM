@@ -1,0 +1,12 @@
+/captioning desnet201 epochs2  pkl (model1)
+/flickr8k
+/model epoch (maybe25)
+/model epochs10+5
+/model epochs10+5+5
+/model epochs10+5+5+5
+/model epochs10+5+5+5+10
+/model epochs10+5+5+5+10+5
+/model epochs50+5
+/model2
+.ipynb_checkpoints/
+__pycache__/
